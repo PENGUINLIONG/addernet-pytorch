@@ -1,0 +1,2998 @@
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 1, Batch: 0, Loss: 2.312478
+Train - Epoch 1, Batch: 10, Loss: 1.277659
+Train - Epoch 1, Batch: 20, Loss: 0.977851
+Train - Epoch 1, Batch: 30, Loss: 0.737525
+Train - Epoch 1, Batch: 40, Loss: 0.694726
+Train - Epoch 1, Batch: 50, Loss: 0.553314
+Train - Epoch 1, Batch: 60, Loss: 0.648775
+Train - Epoch 1, Batch: 70, Loss: 0.503107
+Train - Epoch 1, Batch: 80, Loss: 0.363854
+Train - Epoch 1, Batch: 90, Loss: 0.288059
+Train - Epoch 1, Batch: 100, Loss: 0.314235
+Train - Epoch 1, Batch: 110, Loss: 0.320492
+Train - Epoch 1, Batch: 120, Loss: 0.312043
+Train - Epoch 1, Batch: 130, Loss: 0.292964
+Train - Epoch 1, Batch: 140, Loss: 0.348304
+Train - Epoch 1, Batch: 150, Loss: 0.291094
+Train - Epoch 1, Batch: 160, Loss: 0.266268
+Train - Epoch 1, Batch: 170, Loss: 0.360951
+Train - Epoch 1, Batch: 180, Loss: 0.242986
+Train - Epoch 1, Batch: 190, Loss: 0.348027
+Train - Epoch 1, Batch: 200, Loss: 0.249847
+Train - Epoch 1, Batch: 210, Loss: 0.245221
+Train - Epoch 1, Batch: 220, Loss: 0.345364
+Train - Epoch 1, Batch: 230, Loss: 0.299508
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000979, Accuracy: 0.926000
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 2, Batch: 0, Loss: 0.232206
+Train - Epoch 2, Batch: 10, Loss: 0.243665
+Train - Epoch 2, Batch: 20, Loss: 0.227937
+Train - Epoch 2, Batch: 30, Loss: 0.197913
+Train - Epoch 2, Batch: 40, Loss: 0.294478
+Train - Epoch 2, Batch: 50, Loss: 0.231950
+Train - Epoch 2, Batch: 60, Loss: 0.232220
+Train - Epoch 2, Batch: 70, Loss: 0.300551
+Train - Epoch 2, Batch: 80, Loss: 0.188631
+Train - Epoch 2, Batch: 90, Loss: 0.256413
+Train - Epoch 2, Batch: 100, Loss: 0.282251
+Train - Epoch 2, Batch: 110, Loss: 0.258811
+Train - Epoch 2, Batch: 120, Loss: 0.176398
+Train - Epoch 2, Batch: 130, Loss: 0.283649
+Train - Epoch 2, Batch: 140, Loss: 0.200808
+Train - Epoch 2, Batch: 150, Loss: 0.180409
+Train - Epoch 2, Batch: 160, Loss: 0.266276
+Train - Epoch 2, Batch: 170, Loss: 0.205740
+Train - Epoch 2, Batch: 180, Loss: 0.149714
+Train - Epoch 2, Batch: 190, Loss: 0.174400
+Train - Epoch 2, Batch: 200, Loss: 0.238046
+Train - Epoch 2, Batch: 210, Loss: 0.160144
+Train - Epoch 2, Batch: 220, Loss: 0.237522
+Train - Epoch 2, Batch: 230, Loss: 0.167723
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000857, Accuracy: 0.934100
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 3, Batch: 0, Loss: 0.206001
+Train - Epoch 3, Batch: 10, Loss: 0.215653
+Train - Epoch 3, Batch: 20, Loss: 0.212530
+Train - Epoch 3, Batch: 30, Loss: 0.164730
+Train - Epoch 3, Batch: 40, Loss: 0.174764
+Train - Epoch 3, Batch: 50, Loss: 0.191470
+Train - Epoch 3, Batch: 60, Loss: 0.213135
+Train - Epoch 3, Batch: 70, Loss: 0.140578
+Train - Epoch 3, Batch: 80, Loss: 0.224997
+Train - Epoch 3, Batch: 90, Loss: 0.271034
+Train - Epoch 3, Batch: 100, Loss: 0.175954
+Train - Epoch 3, Batch: 110, Loss: 0.140178
+Train - Epoch 3, Batch: 120, Loss: 0.113942
+Train - Epoch 3, Batch: 130, Loss: 0.239146
+Train - Epoch 3, Batch: 140, Loss: 0.163536
+Train - Epoch 3, Batch: 150, Loss: 0.158824
+Train - Epoch 3, Batch: 160, Loss: 0.186264
+Train - Epoch 3, Batch: 170, Loss: 0.140896
+Train - Epoch 3, Batch: 180, Loss: 0.190927
+Train - Epoch 3, Batch: 190, Loss: 0.212648
+Train - Epoch 3, Batch: 200, Loss: 0.138890
+Train - Epoch 3, Batch: 210, Loss: 0.134420
+Train - Epoch 3, Batch: 220, Loss: 0.194854
+Train - Epoch 3, Batch: 230, Loss: 0.157658
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000783, Accuracy: 0.940500
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 4, Batch: 0, Loss: 0.146311
+Train - Epoch 4, Batch: 10, Loss: 0.241304
+Train - Epoch 4, Batch: 20, Loss: 0.165793
+Train - Epoch 4, Batch: 30, Loss: 0.167587
+Train - Epoch 4, Batch: 40, Loss: 0.129913
+Train - Epoch 4, Batch: 50, Loss: 0.142827
+Train - Epoch 4, Batch: 60, Loss: 0.155251
+Train - Epoch 4, Batch: 70, Loss: 0.126759
+Train - Epoch 4, Batch: 80, Loss: 0.170820
+Train - Epoch 4, Batch: 90, Loss: 0.155217
+Train - Epoch 4, Batch: 100, Loss: 0.176235
+Train - Epoch 4, Batch: 110, Loss: 0.165595
+Train - Epoch 4, Batch: 120, Loss: 0.196005
+Train - Epoch 4, Batch: 130, Loss: 0.100635
+Train - Epoch 4, Batch: 140, Loss: 0.123421
+Train - Epoch 4, Batch: 150, Loss: 0.154914
+Train - Epoch 4, Batch: 160, Loss: 0.140579
+Train - Epoch 4, Batch: 170, Loss: 0.204597
+Train - Epoch 4, Batch: 180, Loss: 0.154105
+Train - Epoch 4, Batch: 190, Loss: 0.213694
+Train - Epoch 4, Batch: 200, Loss: 0.133324
+Train - Epoch 4, Batch: 210, Loss: 0.180586
+Train - Epoch 4, Batch: 220, Loss: 0.177303
+Train - Epoch 4, Batch: 230, Loss: 0.150919
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000756, Accuracy: 0.943700
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 5, Batch: 0, Loss: 0.268811
+Train - Epoch 5, Batch: 10, Loss: 0.149076
+Train - Epoch 5, Batch: 20, Loss: 0.196453
+Train - Epoch 5, Batch: 30, Loss: 0.078195
+Train - Epoch 5, Batch: 40, Loss: 0.153018
+Train - Epoch 5, Batch: 50, Loss: 0.191107
+Train - Epoch 5, Batch: 60, Loss: 0.149155
+Train - Epoch 5, Batch: 70, Loss: 0.127905
+Train - Epoch 5, Batch: 80, Loss: 0.135850
+Train - Epoch 5, Batch: 90, Loss: 0.121680
+Train - Epoch 5, Batch: 100, Loss: 0.157558
+Train - Epoch 5, Batch: 110, Loss: 0.115457
+Train - Epoch 5, Batch: 120, Loss: 0.147048
+Train - Epoch 5, Batch: 130, Loss: 0.187696
+Train - Epoch 5, Batch: 140, Loss: 0.190675
+Train - Epoch 5, Batch: 150, Loss: 0.220049
+Train - Epoch 5, Batch: 160, Loss: 0.132929
+Train - Epoch 5, Batch: 170, Loss: 0.186318
+Train - Epoch 5, Batch: 180, Loss: 0.102938
+Train - Epoch 5, Batch: 190, Loss: 0.200993
+Train - Epoch 5, Batch: 200, Loss: 0.219936
+Train - Epoch 5, Batch: 210, Loss: 0.129585
+Train - Epoch 5, Batch: 220, Loss: 0.151612
+Train - Epoch 5, Batch: 230, Loss: 0.152234
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000728, Accuracy: 0.943300
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 6, Batch: 0, Loss: 0.121594
+Train - Epoch 6, Batch: 10, Loss: 0.138645
+Train - Epoch 6, Batch: 20, Loss: 0.157766
+Train - Epoch 6, Batch: 30, Loss: 0.175462
+Train - Epoch 6, Batch: 40, Loss: 0.173735
+Train - Epoch 6, Batch: 50, Loss: 0.130297
+Train - Epoch 6, Batch: 60, Loss: 0.119228
+Train - Epoch 6, Batch: 70, Loss: 0.137497
+Train - Epoch 6, Batch: 80, Loss: 0.173692
+Train - Epoch 6, Batch: 90, Loss: 0.140398
+Train - Epoch 6, Batch: 100, Loss: 0.118433
+Train - Epoch 6, Batch: 110, Loss: 0.168405
+Train - Epoch 6, Batch: 120, Loss: 0.123202
+Train - Epoch 6, Batch: 130, Loss: 0.080481
+Train - Epoch 6, Batch: 140, Loss: 0.138022
+Train - Epoch 6, Batch: 150, Loss: 0.160829
+Train - Epoch 6, Batch: 160, Loss: 0.114480
+Train - Epoch 6, Batch: 170, Loss: 0.137287
+Train - Epoch 6, Batch: 180, Loss: 0.156638
+Train - Epoch 6, Batch: 190, Loss: 0.163369
+Train - Epoch 6, Batch: 200, Loss: 0.232580
+Train - Epoch 6, Batch: 210, Loss: 0.078071
+Train - Epoch 6, Batch: 220, Loss: 0.128108
+Train - Epoch 6, Batch: 230, Loss: 0.136252
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000661, Accuracy: 0.948800
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 7, Batch: 0, Loss: 0.208828
+Train - Epoch 7, Batch: 10, Loss: 0.174150
+Train - Epoch 7, Batch: 20, Loss: 0.127270
+Train - Epoch 7, Batch: 30, Loss: 0.093531
+Train - Epoch 7, Batch: 40, Loss: 0.158736
+Train - Epoch 7, Batch: 50, Loss: 0.154785
+Train - Epoch 7, Batch: 60, Loss: 0.209808
+Train - Epoch 7, Batch: 70, Loss: 0.128814
+Train - Epoch 7, Batch: 80, Loss: 0.124812
+Train - Epoch 7, Batch: 90, Loss: 0.119990
+Train - Epoch 7, Batch: 100, Loss: 0.176149
+Train - Epoch 7, Batch: 110, Loss: 0.170550
+Train - Epoch 7, Batch: 120, Loss: 0.190102
+Train - Epoch 7, Batch: 130, Loss: 0.182670
+Train - Epoch 7, Batch: 140, Loss: 0.103965
+Train - Epoch 7, Batch: 150, Loss: 0.137399
+Train - Epoch 7, Batch: 160, Loss: 0.122718
+Train - Epoch 7, Batch: 170, Loss: 0.095153
+Train - Epoch 7, Batch: 180, Loss: 0.062953
+Train - Epoch 7, Batch: 190, Loss: 0.187184
+Train - Epoch 7, Batch: 200, Loss: 0.112029
+Train - Epoch 7, Batch: 210, Loss: 0.117623
+Train - Epoch 7, Batch: 220, Loss: 0.155603
+Train - Epoch 7, Batch: 230, Loss: 0.121590
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000902, Accuracy: 0.932600
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 8, Batch: 0, Loss: 0.106970
+Train - Epoch 8, Batch: 10, Loss: 0.081714
+Train - Epoch 8, Batch: 20, Loss: 0.129231
+Train - Epoch 8, Batch: 30, Loss: 0.163134
+Train - Epoch 8, Batch: 40, Loss: 0.160632
+Train - Epoch 8, Batch: 50, Loss: 0.146555
+Train - Epoch 8, Batch: 60, Loss: 0.069109
+Train - Epoch 8, Batch: 70, Loss: 0.173845
+Train - Epoch 8, Batch: 80, Loss: 0.149836
+Train - Epoch 8, Batch: 90, Loss: 0.098393
+Train - Epoch 8, Batch: 100, Loss: 0.102195
+Train - Epoch 8, Batch: 110, Loss: 0.146972
+Train - Epoch 8, Batch: 120, Loss: 0.166412
+Train - Epoch 8, Batch: 130, Loss: 0.091036
+Train - Epoch 8, Batch: 140, Loss: 0.149015
+Train - Epoch 8, Batch: 150, Loss: 0.098060
+Train - Epoch 8, Batch: 160, Loss: 0.136585
+Train - Epoch 8, Batch: 170, Loss: 0.077438
+Train - Epoch 8, Batch: 180, Loss: 0.123793
+Train - Epoch 8, Batch: 190, Loss: 0.161409
+Train - Epoch 8, Batch: 200, Loss: 0.139160
+Train - Epoch 8, Batch: 210, Loss: 0.154319
+Train - Epoch 8, Batch: 220, Loss: 0.098548
+Train - Epoch 8, Batch: 230, Loss: 0.135395
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000682, Accuracy: 0.946500
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 9, Batch: 0, Loss: 0.119996
+Train - Epoch 9, Batch: 10, Loss: 0.100558
+Train - Epoch 9, Batch: 20, Loss: 0.059630
+Train - Epoch 9, Batch: 30, Loss: 0.149391
+Train - Epoch 9, Batch: 40, Loss: 0.081711
+Train - Epoch 9, Batch: 50, Loss: 0.103814
+Train - Epoch 9, Batch: 60, Loss: 0.142092
+Train - Epoch 9, Batch: 70, Loss: 0.165302
+Train - Epoch 9, Batch: 80, Loss: 0.119714
+Train - Epoch 9, Batch: 90, Loss: 0.153237
+Train - Epoch 9, Batch: 100, Loss: 0.149203
+Train - Epoch 9, Batch: 110, Loss: 0.096466
+Train - Epoch 9, Batch: 120, Loss: 0.186485
+Train - Epoch 9, Batch: 130, Loss: 0.139426
+Train - Epoch 9, Batch: 140, Loss: 0.099764
+Train - Epoch 9, Batch: 150, Loss: 0.103303
+Train - Epoch 9, Batch: 160, Loss: 0.095116
+Train - Epoch 9, Batch: 170, Loss: 0.113585
+Train - Epoch 9, Batch: 180, Loss: 0.123953
+Train - Epoch 9, Batch: 190, Loss: 0.079506
+Train - Epoch 9, Batch: 200, Loss: 0.124172
+Train - Epoch 9, Batch: 210, Loss: 0.193315
+Train - Epoch 9, Batch: 220, Loss: 0.154482
+Train - Epoch 9, Batch: 230, Loss: 0.124937
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000652, Accuracy: 0.948000
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Train - Epoch 10, Batch: 0, Loss: 0.149506
+Train - Epoch 10, Batch: 10, Loss: 0.177469
+Train - Epoch 10, Batch: 20, Loss: 0.121039
+Train - Epoch 10, Batch: 30, Loss: 0.138104
+Train - Epoch 10, Batch: 40, Loss: 0.120477
+Train - Epoch 10, Batch: 50, Loss: 0.125037
+Train - Epoch 10, Batch: 60, Loss: 0.120703
+Train - Epoch 10, Batch: 70, Loss: 0.102220
+Train - Epoch 10, Batch: 80, Loss: 0.120806
+Train - Epoch 10, Batch: 90, Loss: 0.146416
+Train - Epoch 10, Batch: 100, Loss: 0.162093
+Train - Epoch 10, Batch: 110, Loss: 0.172929
+Train - Epoch 10, Batch: 120, Loss: 0.083094
+Train - Epoch 10, Batch: 130, Loss: 0.195935
+Train - Epoch 10, Batch: 140, Loss: 0.170823
+Train - Epoch 10, Batch: 150, Loss: 0.172486
+Train - Epoch 10, Batch: 160, Loss: 0.090027
+Train - Epoch 10, Batch: 170, Loss: 0.191077
+Train - Epoch 10, Batch: 180, Loss: 0.120612
+Train - Epoch 10, Batch: 190, Loss: 0.188809
+Train - Epoch 10, Batch: 200, Loss: 0.106574
+Train - Epoch 10, Batch: 210, Loss: 0.094813
+Train - Epoch 10, Batch: 220, Loss: 0.109843
+Train - Epoch 10, Batch: 230, Loss: 0.171085
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000839, Accuracy: 0.935800
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 11, Batch: 0, Loss: 0.196259
+Train - Epoch 11, Batch: 10, Loss: 0.187349
+Train - Epoch 11, Batch: 20, Loss: 0.129377
+Train - Epoch 11, Batch: 30, Loss: 0.195329
+Train - Epoch 11, Batch: 40, Loss: 0.147981
+Train - Epoch 11, Batch: 50, Loss: 0.111602
+Train - Epoch 11, Batch: 60, Loss: 0.143551
+Train - Epoch 11, Batch: 70, Loss: 0.119137
+Train - Epoch 11, Batch: 80, Loss: 0.123748
+Train - Epoch 11, Batch: 90, Loss: 0.145532
+Train - Epoch 11, Batch: 100, Loss: 0.144719
+Train - Epoch 11, Batch: 110, Loss: 0.091410
+Train - Epoch 11, Batch: 120, Loss: 0.079092
+Train - Epoch 11, Batch: 130, Loss: 0.163715
+Train - Epoch 11, Batch: 140, Loss: 0.048986
+Train - Epoch 11, Batch: 150, Loss: 0.125934
+Train - Epoch 11, Batch: 160, Loss: 0.078473
+Train - Epoch 11, Batch: 170, Loss: 0.162118
+Train - Epoch 11, Batch: 180, Loss: 0.141452
+Train - Epoch 11, Batch: 190, Loss: 0.128336
+Train - Epoch 11, Batch: 200, Loss: 0.146408
+Train - Epoch 11, Batch: 210, Loss: 0.086522
+Train - Epoch 11, Batch: 220, Loss: 0.099357
+Train - Epoch 11, Batch: 230, Loss: 0.168642
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000599, Accuracy: 0.951600
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 12, Batch: 0, Loss: 0.120590
+Train - Epoch 12, Batch: 10, Loss: 0.155336
+Train - Epoch 12, Batch: 20, Loss: 0.118162
+Train - Epoch 12, Batch: 30, Loss: 0.173808
+Train - Epoch 12, Batch: 40, Loss: 0.085436
+Train - Epoch 12, Batch: 50, Loss: 0.088242
+Train - Epoch 12, Batch: 60, Loss: 0.124374
+Train - Epoch 12, Batch: 70, Loss: 0.092806
+Train - Epoch 12, Batch: 80, Loss: 0.136981
+Train - Epoch 12, Batch: 90, Loss: 0.172459
+Train - Epoch 12, Batch: 100, Loss: 0.129222
+Train - Epoch 12, Batch: 110, Loss: 0.130934
+Train - Epoch 12, Batch: 120, Loss: 0.109671
+Train - Epoch 12, Batch: 130, Loss: 0.117106
+Train - Epoch 12, Batch: 140, Loss: 0.101534
+Train - Epoch 12, Batch: 150, Loss: 0.136789
+Train - Epoch 12, Batch: 160, Loss: 0.141221
+Train - Epoch 12, Batch: 170, Loss: 0.138769
+Train - Epoch 12, Batch: 180, Loss: 0.080878
+Train - Epoch 12, Batch: 190, Loss: 0.208156
+Train - Epoch 12, Batch: 200, Loss: 0.128740
+Train - Epoch 12, Batch: 210, Loss: 0.116236
+Train - Epoch 12, Batch: 220, Loss: 0.133510
+Train - Epoch 12, Batch: 230, Loss: 0.131209
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000739, Accuracy: 0.943200
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Train - Epoch 13, Batch: 0, Loss: 0.196075
+Train - Epoch 13, Batch: 10, Loss: 0.110515
+Train - Epoch 13, Batch: 20, Loss: 0.185365
+Train - Epoch 13, Batch: 30, Loss: 0.085274
+Train - Epoch 13, Batch: 40, Loss: 0.108905
+Train - Epoch 13, Batch: 50, Loss: 0.106737
+Train - Epoch 13, Batch: 60, Loss: 0.084258
+Train - Epoch 13, Batch: 70, Loss: 0.135734
+Train - Epoch 13, Batch: 80, Loss: 0.100259
+Train - Epoch 13, Batch: 90, Loss: 0.121613
+Train - Epoch 13, Batch: 100, Loss: 0.105382
+Train - Epoch 13, Batch: 110, Loss: 0.115910
+Train - Epoch 13, Batch: 120, Loss: 0.108421
+Train - Epoch 13, Batch: 130, Loss: 0.177871
+Train - Epoch 13, Batch: 140, Loss: 0.118093
+Train - Epoch 13, Batch: 150, Loss: 0.103824
+Train - Epoch 13, Batch: 160, Loss: 0.117475
+Train - Epoch 13, Batch: 170, Loss: 0.119717
+Train - Epoch 13, Batch: 180, Loss: 0.132279
+Train - Epoch 13, Batch: 190, Loss: 0.080438
+Train - Epoch 13, Batch: 200, Loss: 0.146369
+Train - Epoch 13, Batch: 210, Loss: 0.125433
+Train - Epoch 13, Batch: 220, Loss: 0.122807
+Train - Epoch 13, Batch: 230, Loss: 0.217239
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000642, Accuracy: 0.949300
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 14, Batch: 0, Loss: 0.141054
+Train - Epoch 14, Batch: 10, Loss: 0.121527
+Train - Epoch 14, Batch: 20, Loss: 0.093645
+Train - Epoch 14, Batch: 30, Loss: 0.082495
+Train - Epoch 14, Batch: 40, Loss: 0.088461
+Train - Epoch 14, Batch: 50, Loss: 0.129618
+Train - Epoch 14, Batch: 60, Loss: 0.161087
+Train - Epoch 14, Batch: 70, Loss: 0.085925
+Train - Epoch 14, Batch: 80, Loss: 0.108487
+Train - Epoch 14, Batch: 90, Loss: 0.105704
+Train - Epoch 14, Batch: 100, Loss: 0.107649
+Train - Epoch 14, Batch: 110, Loss: 0.051577
+Train - Epoch 14, Batch: 120, Loss: 0.158705
+Train - Epoch 14, Batch: 130, Loss: 0.073943
+Train - Epoch 14, Batch: 140, Loss: 0.151535
+Train - Epoch 14, Batch: 150, Loss: 0.103053
+Train - Epoch 14, Batch: 160, Loss: 0.080217
+Train - Epoch 14, Batch: 170, Loss: 0.119812
+Train - Epoch 14, Batch: 180, Loss: 0.104858
+Train - Epoch 14, Batch: 190, Loss: 0.111433
+Train - Epoch 14, Batch: 200, Loss: 0.100907
+Train - Epoch 14, Batch: 210, Loss: 0.063032
+Train - Epoch 14, Batch: 220, Loss: 0.173906
+Train - Epoch 14, Batch: 230, Loss: 0.125275
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000619, Accuracy: 0.949100
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Train - Epoch 15, Batch: 0, Loss: 0.107133
+Train - Epoch 15, Batch: 10, Loss: 0.099147
+Train - Epoch 15, Batch: 20, Loss: 0.102379
+Train - Epoch 15, Batch: 30, Loss: 0.105841
+Train - Epoch 15, Batch: 40, Loss: 0.073865
+Train - Epoch 15, Batch: 50, Loss: 0.111659
+Train - Epoch 15, Batch: 60, Loss: 0.099343
+Train - Epoch 15, Batch: 70, Loss: 0.109338
+Train - Epoch 15, Batch: 80, Loss: 0.054876
+Train - Epoch 15, Batch: 90, Loss: 0.083686
+Train - Epoch 15, Batch: 100, Loss: 0.120748
+Train - Epoch 15, Batch: 110, Loss: 0.096489
+Train - Epoch 15, Batch: 120, Loss: 0.095332
+Train - Epoch 15, Batch: 130, Loss: 0.076814
+Train - Epoch 15, Batch: 140, Loss: 0.101824
+Train - Epoch 15, Batch: 150, Loss: 0.114937
+Train - Epoch 15, Batch: 160, Loss: 0.097343
+Train - Epoch 15, Batch: 170, Loss: 0.099764
+Train - Epoch 15, Batch: 180, Loss: 0.084769
+Train - Epoch 15, Batch: 190, Loss: 0.134194
+Train - Epoch 15, Batch: 200, Loss: 0.090371
+Train - Epoch 15, Batch: 210, Loss: 0.172144
+Train - Epoch 15, Batch: 220, Loss: 0.159815
+Train - Epoch 15, Batch: 230, Loss: 0.140970
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Test Avg. Loss: 0.000735, Accuracy: 0.942800
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 16, Batch: 0, Loss: 0.119373
+Train - Epoch 16, Batch: 10, Loss: 0.113895
+Train - Epoch 16, Batch: 20, Loss: 0.139615
+Train - Epoch 16, Batch: 30, Loss: 0.130532
+Train - Epoch 16, Batch: 40, Loss: 0.123799
+Train - Epoch 16, Batch: 50, Loss: 0.216421
+Train - Epoch 16, Batch: 60, Loss: 0.151421
+Train - Epoch 16, Batch: 70, Loss: 0.197618
+Train - Epoch 16, Batch: 80, Loss: 0.082345
+Train - Epoch 16, Batch: 90, Loss: 0.125275
+Train - Epoch 16, Batch: 100, Loss: 0.076241
+Train - Epoch 16, Batch: 110, Loss: 0.108784
+Train - Epoch 16, Batch: 120, Loss: 0.075631
+Train - Epoch 16, Batch: 130, Loss: 0.067763
+Train - Epoch 16, Batch: 140, Loss: 0.065693
+Train - Epoch 16, Batch: 150, Loss: 0.081882
+Train - Epoch 16, Batch: 160, Loss: 0.065089
+Train - Epoch 16, Batch: 170, Loss: 0.111281
+Train - Epoch 16, Batch: 180, Loss: 0.141183
+Train - Epoch 16, Batch: 190, Loss: 0.163051
+Train - Epoch 16, Batch: 200, Loss: 0.154174
+Train - Epoch 16, Batch: 210, Loss: 0.089137
+Train - Epoch 16, Batch: 220, Loss: 0.098850
+Train - Epoch 16, Batch: 230, Loss: 0.103977
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000567, Accuracy: 0.957200
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Train - Epoch 17, Batch: 0, Loss: 0.080016
+Train - Epoch 17, Batch: 10, Loss: 0.086366
+Train - Epoch 17, Batch: 20, Loss: 0.086774
+Train - Epoch 17, Batch: 30, Loss: 0.117048
+Train - Epoch 17, Batch: 40, Loss: 0.128380
+Train - Epoch 17, Batch: 50, Loss: 0.110410
+Train - Epoch 17, Batch: 60, Loss: 0.124571
+Train - Epoch 17, Batch: 70, Loss: 0.057592
+Train - Epoch 17, Batch: 80, Loss: 0.084447
+Train - Epoch 17, Batch: 90, Loss: 0.113027
+Train - Epoch 17, Batch: 100, Loss: 0.101742
+Train - Epoch 17, Batch: 110, Loss: 0.082115
+Train - Epoch 17, Batch: 120, Loss: 0.071078
+Train - Epoch 17, Batch: 130, Loss: 0.172632
+Train - Epoch 17, Batch: 140, Loss: 0.085243
+Train - Epoch 17, Batch: 150, Loss: 0.131713
+Train - Epoch 17, Batch: 160, Loss: 0.159736
+Train - Epoch 17, Batch: 170, Loss: 0.141386
+Train - Epoch 17, Batch: 180, Loss: 0.125112
+Train - Epoch 17, Batch: 190, Loss: 0.097639
+Train - Epoch 17, Batch: 200, Loss: 0.086536
+Train - Epoch 17, Batch: 210, Loss: 0.095342
+Train - Epoch 17, Batch: 220, Loss: 0.103884
+Train - Epoch 17, Batch: 230, Loss: 0.083942
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Test Avg. Loss: 0.000539, Accuracy: 0.957500
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Train - Epoch 18, Batch: 0, Loss: 0.131314
+Train - Epoch 18, Batch: 10, Loss: 0.125695
+Train - Epoch 18, Batch: 20, Loss: 0.093950
+Train - Epoch 18, Batch: 30, Loss: 0.066348
+Train - Epoch 18, Batch: 40, Loss: 0.082815
+Train - Epoch 18, Batch: 50, Loss: 0.062751
+Train - Epoch 18, Batch: 60, Loss: 0.097574
+Train - Epoch 18, Batch: 70, Loss: 0.070823
+Train - Epoch 18, Batch: 80, Loss: 0.106070
+Train - Epoch 18, Batch: 90, Loss: 0.099946
+Train - Epoch 18, Batch: 100, Loss: 0.093101
+Train - Epoch 18, Batch: 110, Loss: 0.057083
+Train - Epoch 18, Batch: 120, Loss: 0.104718
+Train - Epoch 18, Batch: 130, Loss: 0.116945
+Train - Epoch 18, Batch: 140, Loss: 0.083922
+Train - Epoch 18, Batch: 150, Loss: 0.114594
+Train - Epoch 18, Batch: 160, Loss: 0.092341
+Train - Epoch 18, Batch: 170, Loss: 0.054541
+Train - Epoch 18, Batch: 180, Loss: 0.070504
+Train - Epoch 18, Batch: 190, Loss: 0.145709
+Train - Epoch 18, Batch: 200, Loss: 0.101954
+Train - Epoch 18, Batch: 210, Loss: 0.128851
+Train - Epoch 18, Batch: 220, Loss: 0.087075
+Train - Epoch 18, Batch: 230, Loss: 0.111335
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000633, Accuracy: 0.951200
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 19, Batch: 0, Loss: 0.100615
+Train - Epoch 19, Batch: 10, Loss: 0.123620
+Train - Epoch 19, Batch: 20, Loss: 0.106196
+Train - Epoch 19, Batch: 30, Loss: 0.102866
+Train - Epoch 19, Batch: 40, Loss: 0.090647
+Train - Epoch 19, Batch: 50, Loss: 0.091144
+Train - Epoch 19, Batch: 60, Loss: 0.113808
+Train - Epoch 19, Batch: 70, Loss: 0.041588
+Train - Epoch 19, Batch: 80, Loss: 0.089244
+Train - Epoch 19, Batch: 90, Loss: 0.068543
+Train - Epoch 19, Batch: 100, Loss: 0.056982
+Train - Epoch 19, Batch: 110, Loss: 0.097587
+Train - Epoch 19, Batch: 120, Loss: 0.081515
+Train - Epoch 19, Batch: 130, Loss: 0.143929
+Train - Epoch 19, Batch: 140, Loss: 0.097760
+Train - Epoch 19, Batch: 150, Loss: 0.145491
+Train - Epoch 19, Batch: 160, Loss: 0.128319
+Train - Epoch 19, Batch: 170, Loss: 0.106127
+Train - Epoch 19, Batch: 180, Loss: 0.065664
+Train - Epoch 19, Batch: 190, Loss: 0.101665
+Train - Epoch 19, Batch: 200, Loss: 0.058430
+Train - Epoch 19, Batch: 210, Loss: 0.100974
+Train - Epoch 19, Batch: 220, Loss: 0.062298
+Train - Epoch 19, Batch: 230, Loss: 0.097130
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000586, Accuracy: 0.955400
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 20, Batch: 0, Loss: 0.073111
+Train - Epoch 20, Batch: 10, Loss: 0.100351
+Train - Epoch 20, Batch: 20, Loss: 0.037132
+Train - Epoch 20, Batch: 30, Loss: 0.062145
+Train - Epoch 20, Batch: 40, Loss: 0.095264
+Train - Epoch 20, Batch: 50, Loss: 0.106275
+Train - Epoch 20, Batch: 60, Loss: 0.143069
+Train - Epoch 20, Batch: 70, Loss: 0.098871
+Train - Epoch 20, Batch: 80, Loss: 0.070247
+Train - Epoch 20, Batch: 90, Loss: 0.098454
+Train - Epoch 20, Batch: 100, Loss: 0.069431
+Train - Epoch 20, Batch: 110, Loss: 0.093345
+Train - Epoch 20, Batch: 120, Loss: 0.098876
+Train - Epoch 20, Batch: 130, Loss: 0.099760
+Train - Epoch 20, Batch: 140, Loss: 0.094155
+Train - Epoch 20, Batch: 150, Loss: 0.107107
+Train - Epoch 20, Batch: 160, Loss: 0.101937
+Train - Epoch 20, Batch: 170, Loss: 0.105578
+Train - Epoch 20, Batch: 180, Loss: 0.087170
+Train - Epoch 20, Batch: 190, Loss: 0.078304
+Train - Epoch 20, Batch: 200, Loss: 0.138197
+Train - Epoch 20, Batch: 210, Loss: 0.085924
+Train - Epoch 20, Batch: 220, Loss: 0.057478
+Train - Epoch 20, Batch: 230, Loss: 0.102475
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000562, Accuracy: 0.957500
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Train - Epoch 21, Batch: 0, Loss: 0.103955
+Train - Epoch 21, Batch: 10, Loss: 0.127265
+Train - Epoch 21, Batch: 20, Loss: 0.080601
+Train - Epoch 21, Batch: 30, Loss: 0.100848
+Train - Epoch 21, Batch: 40, Loss: 0.102049
+Train - Epoch 21, Batch: 50, Loss: 0.085034
+Train - Epoch 21, Batch: 60, Loss: 0.111601
+Train - Epoch 21, Batch: 70, Loss: 0.071284
+Train - Epoch 21, Batch: 80, Loss: 0.129080
+Train - Epoch 21, Batch: 90, Loss: 0.048827
+Train - Epoch 21, Batch: 100, Loss: 0.110781
+Train - Epoch 21, Batch: 110, Loss: 0.043570
+Train - Epoch 21, Batch: 120, Loss: 0.036109
+Train - Epoch 21, Batch: 130, Loss: 0.088487
+Train - Epoch 21, Batch: 140, Loss: 0.108121
+Train - Epoch 21, Batch: 150, Loss: 0.075038
+Train - Epoch 21, Batch: 160, Loss: 0.090957
+Train - Epoch 21, Batch: 170, Loss: 0.128621
+Train - Epoch 21, Batch: 180, Loss: 0.079305
+Train - Epoch 21, Batch: 190, Loss: 0.073200
+Train - Epoch 21, Batch: 200, Loss: 0.099981
+Train - Epoch 21, Batch: 210, Loss: 0.086727
+Train - Epoch 21, Batch: 220, Loss: 0.084161
+Train - Epoch 21, Batch: 230, Loss: 0.033972
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000511, Accuracy: 0.960100
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 22, Batch: 0, Loss: 0.066854
+Train - Epoch 22, Batch: 10, Loss: 0.062885
+Train - Epoch 22, Batch: 20, Loss: 0.077017
+Train - Epoch 22, Batch: 30, Loss: 0.070494
+Train - Epoch 22, Batch: 40, Loss: 0.065815
+Train - Epoch 22, Batch: 50, Loss: 0.102634
+Train - Epoch 22, Batch: 60, Loss: 0.104917
+Train - Epoch 22, Batch: 70, Loss: 0.117568
+Train - Epoch 22, Batch: 80, Loss: 0.080937
+Train - Epoch 22, Batch: 90, Loss: 0.123554
+Train - Epoch 22, Batch: 100, Loss: 0.104593
+Train - Epoch 22, Batch: 110, Loss: 0.188781
+Train - Epoch 22, Batch: 120, Loss: 0.083851
+Train - Epoch 22, Batch: 130, Loss: 0.074481
+Train - Epoch 22, Batch: 140, Loss: 0.114213
+Train - Epoch 22, Batch: 150, Loss: 0.049249
+Train - Epoch 22, Batch: 160, Loss: 0.096446
+Train - Epoch 22, Batch: 170, Loss: 0.033774
+Train - Epoch 22, Batch: 180, Loss: 0.061526
+Train - Epoch 22, Batch: 190, Loss: 0.085751
+Train - Epoch 22, Batch: 200, Loss: 0.079638
+Train - Epoch 22, Batch: 210, Loss: 0.084520
+Train - Epoch 22, Batch: 220, Loss: 0.095725
+Train - Epoch 22, Batch: 230, Loss: 0.119693
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000502, Accuracy: 0.960200
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 23, Batch: 0, Loss: 0.046324
+Train - Epoch 23, Batch: 10, Loss: 0.055360
+Train - Epoch 23, Batch: 20, Loss: 0.075245
+Train - Epoch 23, Batch: 30, Loss: 0.087548
+Train - Epoch 23, Batch: 40, Loss: 0.094808
+Train - Epoch 23, Batch: 50, Loss: 0.086102
+Train - Epoch 23, Batch: 60, Loss: 0.115862
+Train - Epoch 23, Batch: 70, Loss: 0.100237
+Train - Epoch 23, Batch: 80, Loss: 0.071587
+Train - Epoch 23, Batch: 90, Loss: 0.073767
+Train - Epoch 23, Batch: 100, Loss: 0.082248
+Train - Epoch 23, Batch: 110, Loss: 0.136993
+Train - Epoch 23, Batch: 120, Loss: 0.057861
+Train - Epoch 23, Batch: 130, Loss: 0.085321
+Train - Epoch 23, Batch: 140, Loss: 0.111899
+Train - Epoch 23, Batch: 150, Loss: 0.080594
+Train - Epoch 23, Batch: 160, Loss: 0.063196
+Train - Epoch 23, Batch: 170, Loss: 0.094915
+Train - Epoch 23, Batch: 180, Loss: 0.126107
+Train - Epoch 23, Batch: 190, Loss: 0.074932
+Train - Epoch 23, Batch: 200, Loss: 0.169631
+Train - Epoch 23, Batch: 210, Loss: 0.069828
+Train - Epoch 23, Batch: 220, Loss: 0.101077
+Train - Epoch 23, Batch: 230, Loss: 0.073834
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Test Avg. Loss: 0.000534, Accuracy: 0.959300
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 24, Batch: 0, Loss: 0.038601
+Train - Epoch 24, Batch: 10, Loss: 0.053134
+Train - Epoch 24, Batch: 20, Loss: 0.096679
+Train - Epoch 24, Batch: 30, Loss: 0.093520
+Train - Epoch 24, Batch: 40, Loss: 0.107284
+Train - Epoch 24, Batch: 50, Loss: 0.051326
+Train - Epoch 24, Batch: 60, Loss: 0.069895
+Train - Epoch 24, Batch: 70, Loss: 0.042434
+Train - Epoch 24, Batch: 80, Loss: 0.077755
+Train - Epoch 24, Batch: 90, Loss: 0.062969
+Train - Epoch 24, Batch: 100, Loss: 0.137642
+Train - Epoch 24, Batch: 110, Loss: 0.074115
+Train - Epoch 24, Batch: 120, Loss: 0.085855
+Train - Epoch 24, Batch: 130, Loss: 0.095626
+Train - Epoch 24, Batch: 140, Loss: 0.045277
+Train - Epoch 24, Batch: 150, Loss: 0.060545
+Train - Epoch 24, Batch: 160, Loss: 0.069527
+Train - Epoch 24, Batch: 170, Loss: 0.078999
+Train - Epoch 24, Batch: 180, Loss: 0.081172
+Train - Epoch 24, Batch: 190, Loss: 0.084716
+Train - Epoch 24, Batch: 200, Loss: 0.081782
+Train - Epoch 24, Batch: 210, Loss: 0.060793
+Train - Epoch 24, Batch: 220, Loss: 0.070518
+Train - Epoch 24, Batch: 230, Loss: 0.088892
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000497, Accuracy: 0.960900
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 25, Batch: 0, Loss: 0.056717
+Train - Epoch 25, Batch: 10, Loss: 0.086152
+Train - Epoch 25, Batch: 20, Loss: 0.040318
+Train - Epoch 25, Batch: 30, Loss: 0.051285
+Train - Epoch 25, Batch: 40, Loss: 0.045979
+Train - Epoch 25, Batch: 50, Loss: 0.070745
+Train - Epoch 25, Batch: 60, Loss: 0.066261
+Train - Epoch 25, Batch: 70, Loss: 0.062187
+Train - Epoch 25, Batch: 80, Loss: 0.107156
+Train - Epoch 25, Batch: 90, Loss: 0.110998
+Train - Epoch 25, Batch: 100, Loss: 0.043913
+Train - Epoch 25, Batch: 110, Loss: 0.075554
+Train - Epoch 25, Batch: 120, Loss: 0.081651
+Train - Epoch 25, Batch: 130, Loss: 0.116007
+Train - Epoch 25, Batch: 140, Loss: 0.076829
+Train - Epoch 25, Batch: 150, Loss: 0.060865
+Train - Epoch 25, Batch: 160, Loss: 0.078077
+Train - Epoch 25, Batch: 170, Loss: 0.059666
+Train - Epoch 25, Batch: 180, Loss: 0.036545
+Train - Epoch 25, Batch: 190, Loss: 0.067693
+Train - Epoch 25, Batch: 200, Loss: 0.051759
+Train - Epoch 25, Batch: 210, Loss: 0.067883
+Train - Epoch 25, Batch: 220, Loss: 0.067573
+Train - Epoch 25, Batch: 230, Loss: 0.074227
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000506, Accuracy: 0.961400
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 26, Batch: 0, Loss: 0.065368
+Train - Epoch 26, Batch: 10, Loss: 0.077073
+Train - Epoch 26, Batch: 20, Loss: 0.047495
+Train - Epoch 26, Batch: 30, Loss: 0.035561
+Train - Epoch 26, Batch: 40, Loss: 0.085781
+Train - Epoch 26, Batch: 50, Loss: 0.076765
+Train - Epoch 26, Batch: 60, Loss: 0.061467
+Train - Epoch 26, Batch: 70, Loss: 0.070169
+Train - Epoch 26, Batch: 80, Loss: 0.082678
+Train - Epoch 26, Batch: 90, Loss: 0.046169
+Train - Epoch 26, Batch: 100, Loss: 0.057124
+Train - Epoch 26, Batch: 110, Loss: 0.071796
+Train - Epoch 26, Batch: 120, Loss: 0.079632
+Train - Epoch 26, Batch: 130, Loss: 0.101808
+Train - Epoch 26, Batch: 140, Loss: 0.042450
+Train - Epoch 26, Batch: 150, Loss: 0.088253
+Train - Epoch 26, Batch: 160, Loss: 0.046375
+Train - Epoch 26, Batch: 170, Loss: 0.084080
+Train - Epoch 26, Batch: 180, Loss: 0.085648
+Train - Epoch 26, Batch: 190, Loss: 0.052789
+Train - Epoch 26, Batch: 200, Loss: 0.065198
+Train - Epoch 26, Batch: 210, Loss: 0.044644
+Train - Epoch 26, Batch: 220, Loss: 0.062234
+Train - Epoch 26, Batch: 230, Loss: 0.083579
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000578, Accuracy: 0.953300
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 27, Batch: 0, Loss: 0.102204
+Train - Epoch 27, Batch: 10, Loss: 0.039242
+Train - Epoch 27, Batch: 20, Loss: 0.038915
+Train - Epoch 27, Batch: 30, Loss: 0.076227
+Train - Epoch 27, Batch: 40, Loss: 0.067668
+Train - Epoch 27, Batch: 50, Loss: 0.037598
+Train - Epoch 27, Batch: 60, Loss: 0.081459
+Train - Epoch 27, Batch: 70, Loss: 0.065903
+Train - Epoch 27, Batch: 80, Loss: 0.074317
+Train - Epoch 27, Batch: 90, Loss: 0.049503
+Train - Epoch 27, Batch: 100, Loss: 0.054645
+Train - Epoch 27, Batch: 110, Loss: 0.030808
+Train - Epoch 27, Batch: 120, Loss: 0.040002
+Train - Epoch 27, Batch: 130, Loss: 0.081943
+Train - Epoch 27, Batch: 140, Loss: 0.084615
+Train - Epoch 27, Batch: 150, Loss: 0.042989
+Train - Epoch 27, Batch: 160, Loss: 0.099252
+Train - Epoch 27, Batch: 170, Loss: 0.093030
+Train - Epoch 27, Batch: 180, Loss: 0.071972
+Train - Epoch 27, Batch: 190, Loss: 0.058403
+Train - Epoch 27, Batch: 200, Loss: 0.081873
+Train - Epoch 27, Batch: 210, Loss: 0.023229
+Train - Epoch 27, Batch: 220, Loss: 0.092382
+Train - Epoch 27, Batch: 230, Loss: 0.035571
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Test Avg. Loss: 0.000507, Accuracy: 0.960300
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Train - Epoch 28, Batch: 0, Loss: 0.075137
+Train - Epoch 28, Batch: 10, Loss: 0.083992
+Train - Epoch 28, Batch: 20, Loss: 0.030027
+Train - Epoch 28, Batch: 30, Loss: 0.040132
+Train - Epoch 28, Batch: 40, Loss: 0.068069
+Train - Epoch 28, Batch: 50, Loss: 0.058672
+Train - Epoch 28, Batch: 60, Loss: 0.025166
+Train - Epoch 28, Batch: 70, Loss: 0.062361
+Train - Epoch 28, Batch: 80, Loss: 0.056122
+Train - Epoch 28, Batch: 90, Loss: 0.044687
+Train - Epoch 28, Batch: 100, Loss: 0.056159
+Train - Epoch 28, Batch: 110, Loss: 0.077131
+Train - Epoch 28, Batch: 120, Loss: 0.033533
+Train - Epoch 28, Batch: 130, Loss: 0.068569
+Train - Epoch 28, Batch: 140, Loss: 0.076426
+Train - Epoch 28, Batch: 150, Loss: 0.071675
+Train - Epoch 28, Batch: 160, Loss: 0.096931
+Train - Epoch 28, Batch: 170, Loss: 0.045606
+Train - Epoch 28, Batch: 180, Loss: 0.035805
+Train - Epoch 28, Batch: 190, Loss: 0.039512
+Train - Epoch 28, Batch: 200, Loss: 0.047214
+Train - Epoch 28, Batch: 210, Loss: 0.070174
+Train - Epoch 28, Batch: 220, Loss: 0.057410
+Train - Epoch 28, Batch: 230, Loss: 0.095089
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000486, Accuracy: 0.960500
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 29, Batch: 0, Loss: 0.054560
+Train - Epoch 29, Batch: 10, Loss: 0.034023
+Train - Epoch 29, Batch: 20, Loss: 0.078145
+Train - Epoch 29, Batch: 30, Loss: 0.030711
+Train - Epoch 29, Batch: 40, Loss: 0.062264
+Train - Epoch 29, Batch: 50, Loss: 0.051382
+Train - Epoch 29, Batch: 60, Loss: 0.062997
+Train - Epoch 29, Batch: 70, Loss: 0.032309
+Train - Epoch 29, Batch: 80, Loss: 0.035200
+Train - Epoch 29, Batch: 90, Loss: 0.084766
+Train - Epoch 29, Batch: 100, Loss: 0.039329
+Train - Epoch 29, Batch: 110, Loss: 0.050539
+Train - Epoch 29, Batch: 120, Loss: 0.038042
+Train - Epoch 29, Batch: 130, Loss: 0.071105
+Train - Epoch 29, Batch: 140, Loss: 0.114524
+Train - Epoch 29, Batch: 150, Loss: 0.057405
+Train - Epoch 29, Batch: 160, Loss: 0.115533
+Train - Epoch 29, Batch: 170, Loss: 0.072520
+Train - Epoch 29, Batch: 180, Loss: 0.056945
+Train - Epoch 29, Batch: 190, Loss: 0.061353
+Train - Epoch 29, Batch: 200, Loss: 0.077486
+Train - Epoch 29, Batch: 210, Loss: 0.070231
+Train - Epoch 29, Batch: 220, Loss: 0.040060
+Train - Epoch 29, Batch: 230, Loss: 0.093356
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000510, Accuracy: 0.962300
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Train - Epoch 30, Batch: 0, Loss: 0.035638
+Train - Epoch 30, Batch: 10, Loss: 0.077446
+Train - Epoch 30, Batch: 20, Loss: 0.038989
+Train - Epoch 30, Batch: 30, Loss: 0.039683
+Train - Epoch 30, Batch: 40, Loss: 0.087799
+Train - Epoch 30, Batch: 50, Loss: 0.041268
+Train - Epoch 30, Batch: 60, Loss: 0.049869
+Train - Epoch 30, Batch: 70, Loss: 0.085017
+Train - Epoch 30, Batch: 80, Loss: 0.101013
+Train - Epoch 30, Batch: 90, Loss: 0.040246
+Train - Epoch 30, Batch: 100, Loss: 0.059909
+Train - Epoch 30, Batch: 110, Loss: 0.029428
+Train - Epoch 30, Batch: 120, Loss: 0.052016
+Train - Epoch 30, Batch: 130, Loss: 0.030149
+Train - Epoch 30, Batch: 140, Loss: 0.048337
+Train - Epoch 30, Batch: 150, Loss: 0.111767
+Train - Epoch 30, Batch: 160, Loss: 0.024762
+Train - Epoch 30, Batch: 170, Loss: 0.075484
+Train - Epoch 30, Batch: 180, Loss: 0.074477
+Train - Epoch 30, Batch: 190, Loss: 0.040706
+Train - Epoch 30, Batch: 200, Loss: 0.027208
+Train - Epoch 30, Batch: 210, Loss: 0.064835
+Train - Epoch 30, Batch: 220, Loss: 0.082846
+Train - Epoch 30, Batch: 230, Loss: 0.063789
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000470, Accuracy: 0.962100
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 31, Batch: 0, Loss: 0.030748
+Train - Epoch 31, Batch: 10, Loss: 0.071204
+Train - Epoch 31, Batch: 20, Loss: 0.024106
+Train - Epoch 31, Batch: 30, Loss: 0.044628
+Train - Epoch 31, Batch: 40, Loss: 0.050730
+Train - Epoch 31, Batch: 50, Loss: 0.043825
+Train - Epoch 31, Batch: 60, Loss: 0.038718
+Train - Epoch 31, Batch: 70, Loss: 0.048921
+Train - Epoch 31, Batch: 80, Loss: 0.041263
+Train - Epoch 31, Batch: 90, Loss: 0.045026
+Train - Epoch 31, Batch: 100, Loss: 0.052843
+Train - Epoch 31, Batch: 110, Loss: 0.065814
+Train - Epoch 31, Batch: 120, Loss: 0.027277
+Train - Epoch 31, Batch: 130, Loss: 0.030084
+Train - Epoch 31, Batch: 140, Loss: 0.047136
+Train - Epoch 31, Batch: 150, Loss: 0.035938
+Train - Epoch 31, Batch: 160, Loss: 0.035814
+Train - Epoch 31, Batch: 170, Loss: 0.074095
+Train - Epoch 31, Batch: 180, Loss: 0.054456
+Train - Epoch 31, Batch: 190, Loss: 0.051038
+Train - Epoch 31, Batch: 200, Loss: 0.040682
+Train - Epoch 31, Batch: 210, Loss: 0.056179
+Train - Epoch 31, Batch: 220, Loss: 0.059237
+Train - Epoch 31, Batch: 230, Loss: 0.064476
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000474, Accuracy: 0.964400
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 32, Batch: 0, Loss: 0.021310
+Train - Epoch 32, Batch: 10, Loss: 0.026341
+Train - Epoch 32, Batch: 20, Loss: 0.057968
+Train - Epoch 32, Batch: 30, Loss: 0.032387
+Train - Epoch 32, Batch: 40, Loss: 0.034044
+Train - Epoch 32, Batch: 50, Loss: 0.035360
+Train - Epoch 32, Batch: 60, Loss: 0.041572
+Train - Epoch 32, Batch: 70, Loss: 0.017174
+Train - Epoch 32, Batch: 80, Loss: 0.042801
+Train - Epoch 32, Batch: 90, Loss: 0.057129
+Train - Epoch 32, Batch: 100, Loss: 0.054889
+Train - Epoch 32, Batch: 110, Loss: 0.090161
+Train - Epoch 32, Batch: 120, Loss: 0.050327
+Train - Epoch 32, Batch: 130, Loss: 0.064225
+Train - Epoch 32, Batch: 140, Loss: 0.032013
+Train - Epoch 32, Batch: 150, Loss: 0.124587
+Train - Epoch 32, Batch: 160, Loss: 0.033977
+Train - Epoch 32, Batch: 170, Loss: 0.049822
+Train - Epoch 32, Batch: 180, Loss: 0.047135
+Train - Epoch 32, Batch: 190, Loss: 0.066927
+Train - Epoch 32, Batch: 200, Loss: 0.039874
+Train - Epoch 32, Batch: 210, Loss: 0.052405
+Train - Epoch 32, Batch: 220, Loss: 0.069167
+Train - Epoch 32, Batch: 230, Loss: 0.070031
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Test Avg. Loss: 0.000457, Accuracy: 0.964100
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 33, Batch: 0, Loss: 0.039501
+Train - Epoch 33, Batch: 10, Loss: 0.078440
+Train - Epoch 33, Batch: 20, Loss: 0.057634
+Train - Epoch 33, Batch: 30, Loss: 0.034833
+Train - Epoch 33, Batch: 40, Loss: 0.065168
+Train - Epoch 33, Batch: 50, Loss: 0.048970
+Train - Epoch 33, Batch: 60, Loss: 0.023784
+Train - Epoch 33, Batch: 70, Loss: 0.038454
+Train - Epoch 33, Batch: 80, Loss: 0.027992
+Train - Epoch 33, Batch: 90, Loss: 0.048160
+Train - Epoch 33, Batch: 100, Loss: 0.023649
+Train - Epoch 33, Batch: 110, Loss: 0.051555
+Train - Epoch 33, Batch: 120, Loss: 0.034408
+Train - Epoch 33, Batch: 130, Loss: 0.055572
+Train - Epoch 33, Batch: 140, Loss: 0.031175
+Train - Epoch 33, Batch: 150, Loss: 0.022717
+Train - Epoch 33, Batch: 160, Loss: 0.042304
+Train - Epoch 33, Batch: 170, Loss: 0.076365
+Train - Epoch 33, Batch: 180, Loss: 0.040693
+Train - Epoch 33, Batch: 190, Loss: 0.025497
+Train - Epoch 33, Batch: 200, Loss: 0.080446
+Train - Epoch 33, Batch: 210, Loss: 0.087095
+Train - Epoch 33, Batch: 220, Loss: 0.035360
+Train - Epoch 33, Batch: 230, Loss: 0.062573
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000461, Accuracy: 0.963900
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 34, Batch: 0, Loss: 0.026327
+Train - Epoch 34, Batch: 10, Loss: 0.053525
+Train - Epoch 34, Batch: 20, Loss: 0.052586
+Train - Epoch 34, Batch: 30, Loss: 0.041753
+Train - Epoch 34, Batch: 40, Loss: 0.030309
+Train - Epoch 34, Batch: 50, Loss: 0.039624
+Train - Epoch 34, Batch: 60, Loss: 0.052083
+Train - Epoch 34, Batch: 70, Loss: 0.019035
+Train - Epoch 34, Batch: 80, Loss: 0.041043
+Train - Epoch 34, Batch: 90, Loss: 0.009742
+Train - Epoch 34, Batch: 100, Loss: 0.043048
+Train - Epoch 34, Batch: 110, Loss: 0.050806
+Train - Epoch 34, Batch: 120, Loss: 0.032706
+Train - Epoch 34, Batch: 130, Loss: 0.036737
+Train - Epoch 34, Batch: 140, Loss: 0.028590
+Train - Epoch 34, Batch: 150, Loss: 0.036757
+Train - Epoch 34, Batch: 160, Loss: 0.081873
+Train - Epoch 34, Batch: 170, Loss: 0.079242
+Train - Epoch 34, Batch: 180, Loss: 0.050636
+Train - Epoch 34, Batch: 190, Loss: 0.034750
+Train - Epoch 34, Batch: 200, Loss: 0.036929
+Train - Epoch 34, Batch: 210, Loss: 0.028281
+Train - Epoch 34, Batch: 220, Loss: 0.051487
+Train - Epoch 34, Batch: 230, Loss: 0.046444
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000460, Accuracy: 0.964000
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 35, Batch: 0, Loss: 0.045769
+Train - Epoch 35, Batch: 10, Loss: 0.036506
+Train - Epoch 35, Batch: 20, Loss: 0.046812
+Train - Epoch 35, Batch: 30, Loss: 0.038491
+Train - Epoch 35, Batch: 40, Loss: 0.046289
+Train - Epoch 35, Batch: 50, Loss: 0.024782
+Train - Epoch 35, Batch: 60, Loss: 0.047894
+Train - Epoch 35, Batch: 70, Loss: 0.035994
+Train - Epoch 35, Batch: 80, Loss: 0.048861
+Train - Epoch 35, Batch: 90, Loss: 0.038490
+Train - Epoch 35, Batch: 100, Loss: 0.036820
+Train - Epoch 35, Batch: 110, Loss: 0.057362
+Train - Epoch 35, Batch: 120, Loss: 0.025485
+Train - Epoch 35, Batch: 130, Loss: 0.023035
+Train - Epoch 35, Batch: 140, Loss: 0.035288
+Train - Epoch 35, Batch: 150, Loss: 0.048280
+Train - Epoch 35, Batch: 160, Loss: 0.042489
+Train - Epoch 35, Batch: 170, Loss: 0.047362
+Train - Epoch 35, Batch: 180, Loss: 0.051160
+Train - Epoch 35, Batch: 190, Loss: 0.043584
+Train - Epoch 35, Batch: 200, Loss: 0.028981
+Train - Epoch 35, Batch: 210, Loss: 0.031677
+Train - Epoch 35, Batch: 220, Loss: 0.031739
+Train - Epoch 35, Batch: 230, Loss: 0.045594
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000450, Accuracy: 0.965400
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 36, Batch: 0, Loss: 0.039603
+Train - Epoch 36, Batch: 10, Loss: 0.030944
+Train - Epoch 36, Batch: 20, Loss: 0.033744
+Train - Epoch 36, Batch: 30, Loss: 0.023923
+Train - Epoch 36, Batch: 40, Loss: 0.021825
+Train - Epoch 36, Batch: 50, Loss: 0.033677
+Train - Epoch 36, Batch: 60, Loss: 0.068643
+Train - Epoch 36, Batch: 70, Loss: 0.040798
+Train - Epoch 36, Batch: 80, Loss: 0.033948
+Train - Epoch 36, Batch: 90, Loss: 0.047412
+Train - Epoch 36, Batch: 100, Loss: 0.051731
+Train - Epoch 36, Batch: 110, Loss: 0.040145
+Train - Epoch 36, Batch: 120, Loss: 0.028255
+Train - Epoch 36, Batch: 130, Loss: 0.036528
+Train - Epoch 36, Batch: 140, Loss: 0.036091
+Train - Epoch 36, Batch: 150, Loss: 0.022113
+Train - Epoch 36, Batch: 160, Loss: 0.030639
+Train - Epoch 36, Batch: 170, Loss: 0.030424
+Train - Epoch 36, Batch: 180, Loss: 0.071264
+Train - Epoch 36, Batch: 190, Loss: 0.024243
+Train - Epoch 36, Batch: 200, Loss: 0.033862
+Train - Epoch 36, Batch: 210, Loss: 0.052420
+Train - Epoch 36, Batch: 220, Loss: 0.018132
+Train - Epoch 36, Batch: 230, Loss: 0.036020
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Test Avg. Loss: 0.000447, Accuracy: 0.966200
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 37, Batch: 0, Loss: 0.031050
+Train - Epoch 37, Batch: 10, Loss: 0.011196
+Train - Epoch 37, Batch: 20, Loss: 0.030888
+Train - Epoch 37, Batch: 30, Loss: 0.043148
+Train - Epoch 37, Batch: 40, Loss: 0.053058
+Train - Epoch 37, Batch: 50, Loss: 0.054495
+Train - Epoch 37, Batch: 60, Loss: 0.040628
+Train - Epoch 37, Batch: 70, Loss: 0.024330
+Train - Epoch 37, Batch: 80, Loss: 0.036638
+Train - Epoch 37, Batch: 90, Loss: 0.044434
+Train - Epoch 37, Batch: 100, Loss: 0.033705
+Train - Epoch 37, Batch: 110, Loss: 0.028355
+Train - Epoch 37, Batch: 120, Loss: 0.012247
+Train - Epoch 37, Batch: 130, Loss: 0.046007
+Train - Epoch 37, Batch: 140, Loss: 0.027669
+Train - Epoch 37, Batch: 150, Loss: 0.013208
+Train - Epoch 37, Batch: 160, Loss: 0.031035
+Train - Epoch 37, Batch: 170, Loss: 0.040691
+Train - Epoch 37, Batch: 180, Loss: 0.041319
+Train - Epoch 37, Batch: 190, Loss: 0.026324
+Train - Epoch 37, Batch: 200, Loss: 0.048825
+Train - Epoch 37, Batch: 210, Loss: 0.049424
+Train - Epoch 37, Batch: 220, Loss: 0.028324
+Train - Epoch 37, Batch: 230, Loss: 0.026610
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Test Avg. Loss: 0.000443, Accuracy: 0.966400
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 38, Batch: 0, Loss: 0.049201
+Train - Epoch 38, Batch: 10, Loss: 0.020408
+Train - Epoch 38, Batch: 20, Loss: 0.042431
+Train - Epoch 38, Batch: 30, Loss: 0.023800
+Train - Epoch 38, Batch: 40, Loss: 0.031483
+Train - Epoch 38, Batch: 50, Loss: 0.042402
+Train - Epoch 38, Batch: 60, Loss: 0.020931
+Train - Epoch 38, Batch: 70, Loss: 0.024150
+Train - Epoch 38, Batch: 80, Loss: 0.032070
+Train - Epoch 38, Batch: 90, Loss: 0.021664
+Train - Epoch 38, Batch: 100, Loss: 0.021118
+Train - Epoch 38, Batch: 110, Loss: 0.036855
+Train - Epoch 38, Batch: 120, Loss: 0.031756
+Train - Epoch 38, Batch: 130, Loss: 0.018159
+Train - Epoch 38, Batch: 140, Loss: 0.033117
+Train - Epoch 38, Batch: 150, Loss: 0.046338
+Train - Epoch 38, Batch: 160, Loss: 0.037659
+Train - Epoch 38, Batch: 170, Loss: 0.017891
+Train - Epoch 38, Batch: 180, Loss: 0.033974
+Train - Epoch 38, Batch: 190, Loss: 0.056292
+Train - Epoch 38, Batch: 200, Loss: 0.020369
+Train - Epoch 38, Batch: 210, Loss: 0.029175
+Train - Epoch 38, Batch: 220, Loss: 0.019373
+Train - Epoch 38, Batch: 230, Loss: 0.035263
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000426, Accuracy: 0.969000
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 39, Batch: 0, Loss: 0.014525
+Train - Epoch 39, Batch: 10, Loss: 0.040704
+Train - Epoch 39, Batch: 20, Loss: 0.020962
+Train - Epoch 39, Batch: 30, Loss: 0.053358
+Train - Epoch 39, Batch: 40, Loss: 0.036197
+Train - Epoch 39, Batch: 50, Loss: 0.052883
+Train - Epoch 39, Batch: 60, Loss: 0.027411
+Train - Epoch 39, Batch: 70, Loss: 0.034023
+Train - Epoch 39, Batch: 80, Loss: 0.044971
+Train - Epoch 39, Batch: 90, Loss: 0.030353
+Train - Epoch 39, Batch: 100, Loss: 0.024343
+Train - Epoch 39, Batch: 110, Loss: 0.046464
+Train - Epoch 39, Batch: 120, Loss: 0.035570
+Train - Epoch 39, Batch: 130, Loss: 0.016156
+Train - Epoch 39, Batch: 140, Loss: 0.022301
+Train - Epoch 39, Batch: 150, Loss: 0.016936
+Train - Epoch 39, Batch: 160, Loss: 0.030656
+Train - Epoch 39, Batch: 170, Loss: 0.044084
+Train - Epoch 39, Batch: 180, Loss: 0.042873
+Train - Epoch 39, Batch: 190, Loss: 0.022756
+Train - Epoch 39, Batch: 200, Loss: 0.023604
+Train - Epoch 39, Batch: 210, Loss: 0.026680
+Train - Epoch 39, Batch: 220, Loss: 0.039728
+Train - Epoch 39, Batch: 230, Loss: 0.020531
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Test Avg. Loss: 0.000429, Accuracy: 0.968300
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 40, Batch: 0, Loss: 0.021549
+Train - Epoch 40, Batch: 10, Loss: 0.018950
+Train - Epoch 40, Batch: 20, Loss: 0.044373
+Train - Epoch 40, Batch: 30, Loss: 0.034021
+Train - Epoch 40, Batch: 40, Loss: 0.026131
+Train - Epoch 40, Batch: 50, Loss: 0.020392
+Train - Epoch 40, Batch: 60, Loss: 0.036439
+Train - Epoch 40, Batch: 70, Loss: 0.039420
+Train - Epoch 40, Batch: 80, Loss: 0.026778
+Train - Epoch 40, Batch: 90, Loss: 0.020250
+Train - Epoch 40, Batch: 100, Loss: 0.052178
+Train - Epoch 40, Batch: 110, Loss: 0.014952
+Train - Epoch 40, Batch: 120, Loss: 0.030818
+Train - Epoch 40, Batch: 130, Loss: 0.009968
+Train - Epoch 40, Batch: 140, Loss: 0.012141
+Train - Epoch 40, Batch: 150, Loss: 0.016681
+Train - Epoch 40, Batch: 160, Loss: 0.031335
+Train - Epoch 40, Batch: 170, Loss: 0.020655
+Train - Epoch 40, Batch: 180, Loss: 0.030800
+Train - Epoch 40, Batch: 190, Loss: 0.022074
+Train - Epoch 40, Batch: 200, Loss: 0.024317
+Train - Epoch 40, Batch: 210, Loss: 0.037193
+Train - Epoch 40, Batch: 220, Loss: 0.043112
+Train - Epoch 40, Batch: 230, Loss: 0.038128
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000429, Accuracy: 0.966200
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 41, Batch: 0, Loss: 0.033411
+Train - Epoch 41, Batch: 10, Loss: 0.023962
+Train - Epoch 41, Batch: 20, Loss: 0.007789
+Train - Epoch 41, Batch: 30, Loss: 0.021761
+Train - Epoch 41, Batch: 40, Loss: 0.022763
+Train - Epoch 41, Batch: 50, Loss: 0.031133
+Train - Epoch 41, Batch: 60, Loss: 0.035562
+Train - Epoch 41, Batch: 70, Loss: 0.028907
+Train - Epoch 41, Batch: 80, Loss: 0.012701
+Train - Epoch 41, Batch: 90, Loss: 0.040343
+Train - Epoch 41, Batch: 100, Loss: 0.033238
+Train - Epoch 41, Batch: 110, Loss: 0.025995
+Train - Epoch 41, Batch: 120, Loss: 0.030492
+Train - Epoch 41, Batch: 130, Loss: 0.018097
+Train - Epoch 41, Batch: 140, Loss: 0.025183
+Train - Epoch 41, Batch: 150, Loss: 0.029934
+Train - Epoch 41, Batch: 160, Loss: 0.038393
+Train - Epoch 41, Batch: 170, Loss: 0.020417
+Train - Epoch 41, Batch: 180, Loss: 0.037804
+Train - Epoch 41, Batch: 190, Loss: 0.032211
+Train - Epoch 41, Batch: 200, Loss: 0.029178
+Train - Epoch 41, Batch: 210, Loss: 0.022327
+Train - Epoch 41, Batch: 220, Loss: 0.036950
+Train - Epoch 41, Batch: 230, Loss: 0.038177
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000430, Accuracy: 0.967700
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 42, Batch: 0, Loss: 0.020987
+Train - Epoch 42, Batch: 10, Loss: 0.019885
+Train - Epoch 42, Batch: 20, Loss: 0.019131
+Train - Epoch 42, Batch: 30, Loss: 0.009353
+Train - Epoch 42, Batch: 40, Loss: 0.024607
+Train - Epoch 42, Batch: 50, Loss: 0.042217
+Train - Epoch 42, Batch: 60, Loss: 0.014155
+Train - Epoch 42, Batch: 70, Loss: 0.028515
+Train - Epoch 42, Batch: 80, Loss: 0.011975
+Train - Epoch 42, Batch: 90, Loss: 0.010858
+Train - Epoch 42, Batch: 100, Loss: 0.017518
+Train - Epoch 42, Batch: 110, Loss: 0.051209
+Train - Epoch 42, Batch: 120, Loss: 0.026023
+Train - Epoch 42, Batch: 130, Loss: 0.036340
+Train - Epoch 42, Batch: 140, Loss: 0.030036
+Train - Epoch 42, Batch: 150, Loss: 0.030744
+Train - Epoch 42, Batch: 160, Loss: 0.031173
+Train - Epoch 42, Batch: 170, Loss: 0.046413
+Train - Epoch 42, Batch: 180, Loss: 0.020080
+Train - Epoch 42, Batch: 190, Loss: 0.025428
+Train - Epoch 42, Batch: 200, Loss: 0.018434
+Train - Epoch 42, Batch: 210, Loss: 0.016960
+Train - Epoch 42, Batch: 220, Loss: 0.010083
+Train - Epoch 42, Batch: 230, Loss: 0.018036
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000427, Accuracy: 0.967900
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 43, Batch: 0, Loss: 0.017148
+Train - Epoch 43, Batch: 10, Loss: 0.029325
+Train - Epoch 43, Batch: 20, Loss: 0.021352
+Train - Epoch 43, Batch: 30, Loss: 0.026675
+Train - Epoch 43, Batch: 40, Loss: 0.013002
+Train - Epoch 43, Batch: 50, Loss: 0.032129
+Train - Epoch 43, Batch: 60, Loss: 0.022628
+Train - Epoch 43, Batch: 70, Loss: 0.032041
+Train - Epoch 43, Batch: 80, Loss: 0.029646
+Train - Epoch 43, Batch: 90, Loss: 0.022105
+Train - Epoch 43, Batch: 100, Loss: 0.032990
+Train - Epoch 43, Batch: 110, Loss: 0.037683
+Train - Epoch 43, Batch: 120, Loss: 0.020741
+Train - Epoch 43, Batch: 130, Loss: 0.031750
+Train - Epoch 43, Batch: 140, Loss: 0.040093
+Train - Epoch 43, Batch: 150, Loss: 0.032859
+Train - Epoch 43, Batch: 160, Loss: 0.025480
+Train - Epoch 43, Batch: 170, Loss: 0.015617
+Train - Epoch 43, Batch: 180, Loss: 0.017870
+Train - Epoch 43, Batch: 190, Loss: 0.013200
+Train - Epoch 43, Batch: 200, Loss: 0.032650
+Train - Epoch 43, Batch: 210, Loss: 0.019638
+Train - Epoch 43, Batch: 220, Loss: 0.038978
+Train - Epoch 43, Batch: 230, Loss: 0.019914
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000422, Accuracy: 0.967300
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 44, Batch: 0, Loss: 0.022150
+Train - Epoch 44, Batch: 10, Loss: 0.030401
+Train - Epoch 44, Batch: 20, Loss: 0.010595
+Train - Epoch 44, Batch: 30, Loss: 0.021770
+Train - Epoch 44, Batch: 40, Loss: 0.017674
+Train - Epoch 44, Batch: 50, Loss: 0.018830
+Train - Epoch 44, Batch: 60, Loss: 0.029055
+Train - Epoch 44, Batch: 70, Loss: 0.030129
+Train - Epoch 44, Batch: 80, Loss: 0.015934
+Train - Epoch 44, Batch: 90, Loss: 0.030270
+Train - Epoch 44, Batch: 100, Loss: 0.043378
+Train - Epoch 44, Batch: 110, Loss: 0.028499
+Train - Epoch 44, Batch: 120, Loss: 0.026452
+Train - Epoch 44, Batch: 130, Loss: 0.021914
+Train - Epoch 44, Batch: 140, Loss: 0.013104
+Train - Epoch 44, Batch: 150, Loss: 0.029892
+Train - Epoch 44, Batch: 160, Loss: 0.018714
+Train - Epoch 44, Batch: 170, Loss: 0.039481
+Train - Epoch 44, Batch: 180, Loss: 0.020033
+Train - Epoch 44, Batch: 190, Loss: 0.040330
+Train - Epoch 44, Batch: 200, Loss: 0.049180
+Train - Epoch 44, Batch: 210, Loss: 0.019828
+Train - Epoch 44, Batch: 220, Loss: 0.016405
+Train - Epoch 44, Batch: 230, Loss: 0.030648
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000425, Accuracy: 0.967600
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 45, Batch: 0, Loss: 0.012625
+Train - Epoch 45, Batch: 10, Loss: 0.033830
+Train - Epoch 45, Batch: 20, Loss: 0.029828
+Train - Epoch 45, Batch: 30, Loss: 0.012403
+Train - Epoch 45, Batch: 40, Loss: 0.026477
+Train - Epoch 45, Batch: 50, Loss: 0.029045
+Train - Epoch 45, Batch: 60, Loss: 0.013218
+Train - Epoch 45, Batch: 70, Loss: 0.033253
+Train - Epoch 45, Batch: 80, Loss: 0.011853
+Train - Epoch 45, Batch: 90, Loss: 0.013945
+Train - Epoch 45, Batch: 100, Loss: 0.026856
+Train - Epoch 45, Batch: 110, Loss: 0.017519
+Train - Epoch 45, Batch: 120, Loss: 0.014197
+Train - Epoch 45, Batch: 130, Loss: 0.013228
+Train - Epoch 45, Batch: 140, Loss: 0.024917
+Train - Epoch 45, Batch: 150, Loss: 0.045014
+Train - Epoch 45, Batch: 160, Loss: 0.014271
+Train - Epoch 45, Batch: 170, Loss: 0.027095
+Train - Epoch 45, Batch: 180, Loss: 0.023160
+Train - Epoch 45, Batch: 190, Loss: 0.039010
+Train - Epoch 45, Batch: 200, Loss: 0.023785
+Train - Epoch 45, Batch: 210, Loss: 0.017169
+Train - Epoch 45, Batch: 220, Loss: 0.023663
+Train - Epoch 45, Batch: 230, Loss: 0.028229
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000422, Accuracy: 0.968300
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 46, Batch: 0, Loss: 0.032522
+Train - Epoch 46, Batch: 10, Loss: 0.028329
+Train - Epoch 46, Batch: 20, Loss: 0.017220
+Train - Epoch 46, Batch: 30, Loss: 0.017760
+Train - Epoch 46, Batch: 40, Loss: 0.013460
+Train - Epoch 46, Batch: 50, Loss: 0.014356
+Train - Epoch 46, Batch: 60, Loss: 0.014020
+Train - Epoch 46, Batch: 70, Loss: 0.019765
+Train - Epoch 46, Batch: 80, Loss: 0.019953
+Train - Epoch 46, Batch: 90, Loss: 0.023751
+Train - Epoch 46, Batch: 100, Loss: 0.025749
+Train - Epoch 46, Batch: 110, Loss: 0.034425
+Train - Epoch 46, Batch: 120, Loss: 0.014364
+Train - Epoch 46, Batch: 130, Loss: 0.026152
+Train - Epoch 46, Batch: 140, Loss: 0.020972
+Train - Epoch 46, Batch: 150, Loss: 0.043524
+Train - Epoch 46, Batch: 160, Loss: 0.021012
+Train - Epoch 46, Batch: 170, Loss: 0.022536
+Train - Epoch 46, Batch: 180, Loss: 0.022219
+Train - Epoch 46, Batch: 190, Loss: 0.033368
+Train - Epoch 46, Batch: 200, Loss: 0.035817
+Train - Epoch 46, Batch: 210, Loss: 0.041233
+Train - Epoch 46, Batch: 220, Loss: 0.015668
+Train - Epoch 46, Batch: 230, Loss: 0.017906
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000422, Accuracy: 0.968400
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+
+Train - Epoch 47, Batch: 0, Loss: 0.021133
+Train - Epoch 47, Batch: 10, Loss: 0.029943
+Train - Epoch 47, Batch: 20, Loss: 0.015169
+Train - Epoch 47, Batch: 30, Loss: 0.025707
+Train - Epoch 47, Batch: 40, Loss: 0.032382
+Train - Epoch 47, Batch: 50, Loss: 0.015830
+Train - Epoch 47, Batch: 60, Loss: 0.019357
+Train - Epoch 47, Batch: 70, Loss: 0.018735
+Train - Epoch 47, Batch: 80, Loss: 0.048870
+Train - Epoch 47, Batch: 90, Loss: 0.025763
+Train - Epoch 47, Batch: 100, Loss: 0.017679
+Train - Epoch 47, Batch: 110, Loss: 0.016225
+Train - Epoch 47, Batch: 120, Loss: 0.017963
+Train - Epoch 47, Batch: 130, Loss: 0.008947
+Train - Epoch 47, Batch: 140, Loss: 0.033771
+Train - Epoch 47, Batch: 150, Loss: 0.019217
+Train - Epoch 47, Batch: 160, Loss: 0.013606
+Train - Epoch 47, Batch: 170, Loss: 0.031654
+Train - Epoch 47, Batch: 180, Loss: 0.007983
+Train - Epoch 47, Batch: 190, Loss: 0.018502
+Train - Epoch 47, Batch: 200, Loss: 0.009788
+Train - Epoch 47, Batch: 210, Loss: 0.013387
+Train - Epoch 47, Batch: 220, Loss: 0.010175
+Train - Epoch 47, Batch: 230, Loss: 0.021989
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000422, Accuracy: 0.968100
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 48, Batch: 0, Loss: 0.023334
+Train - Epoch 48, Batch: 10, Loss: 0.025995
+Train - Epoch 48, Batch: 20, Loss: 0.057715
+Train - Epoch 48, Batch: 30, Loss: 0.020015
+Train - Epoch 48, Batch: 40, Loss: 0.016703
+Train - Epoch 48, Batch: 50, Loss: 0.011909
+Train - Epoch 48, Batch: 60, Loss: 0.021870
+Train - Epoch 48, Batch: 70, Loss: 0.023975
+Train - Epoch 48, Batch: 80, Loss: 0.006154
+Train - Epoch 48, Batch: 90, Loss: 0.036573
+Train - Epoch 48, Batch: 100, Loss: 0.018958
+Train - Epoch 48, Batch: 110, Loss: 0.030512
+Train - Epoch 48, Batch: 120, Loss: 0.022749
+Train - Epoch 48, Batch: 130, Loss: 0.016533
+Train - Epoch 48, Batch: 140, Loss: 0.020731
+Train - Epoch 48, Batch: 150, Loss: 0.024252
+Train - Epoch 48, Batch: 160, Loss: 0.014200
+Train - Epoch 48, Batch: 170, Loss: 0.031026
+Train - Epoch 48, Batch: 180, Loss: 0.020613
+Train - Epoch 48, Batch: 190, Loss: 0.029899
+Train - Epoch 48, Batch: 200, Loss: 0.018494
+Train - Epoch 48, Batch: 210, Loss: 0.016963
+Train - Epoch 48, Batch: 220, Loss: 0.023396
+Train - Epoch 48, Batch: 230, Loss: 0.016256
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000421, Accuracy: 0.968500
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Train - Epoch 49, Batch: 0, Loss: 0.031397
+Train - Epoch 49, Batch: 10, Loss: 0.018935
+Train - Epoch 49, Batch: 20, Loss: 0.027126
+Train - Epoch 49, Batch: 30, Loss: 0.021241
+Train - Epoch 49, Batch: 40, Loss: 0.014577
+Train - Epoch 49, Batch: 50, Loss: 0.023021
+Train - Epoch 49, Batch: 60, Loss: 0.033675
+Train - Epoch 49, Batch: 70, Loss: 0.016748
+Train - Epoch 49, Batch: 80, Loss: 0.016039
+Train - Epoch 49, Batch: 90, Loss: 0.027690
+Train - Epoch 49, Batch: 100, Loss: 0.012040
+Train - Epoch 49, Batch: 110, Loss: 0.011987
+Train - Epoch 49, Batch: 120, Loss: 0.013420
+Train - Epoch 49, Batch: 130, Loss: 0.015338
+Train - Epoch 49, Batch: 140, Loss: 0.018538
+Train - Epoch 49, Batch: 150, Loss: 0.021971
+Train - Epoch 49, Batch: 160, Loss: 0.011867
+Train - Epoch 49, Batch: 170, Loss: 0.012408
+Train - Epoch 49, Batch: 180, Loss: 0.021915
+Train - Epoch 49, Batch: 190, Loss: 0.021716
+Train - Epoch 49, Batch: 200, Loss: 0.025202
+Train - Epoch 49, Batch: 210, Loss: 0.023093
+Train - Epoch 49, Batch: 220, Loss: 0.026185
+Train - Epoch 49, Batch: 230, Loss: 0.020535
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+LadderLeNet(
+  (conv1): Ladder2D()
+  (bn1): BatchNorm2d(6, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (conv2): Ladder2D()
+  (bn2): BatchNorm2d(16, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+  (fc1): Linear(in_features=400, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+Test Avg. Loss: 0.000421, Accuracy: 0.968200
